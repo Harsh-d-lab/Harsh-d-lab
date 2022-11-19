@@ -6,6 +6,7 @@
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/harsh-dhama-06a5921aa/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Don't Assume Just Discover.
+- [](https://api.daily.dev/devcards/db0899975d6a4839adbc5bab1bbe609a.png?r=acu)
 <!--
 **Harsh-d-lab/Harsh-d-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -20,4 +21,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-https://api.daily.dev/devcards/db0899975d6a4839adbc5bab1bbe609a.png?r=acu
