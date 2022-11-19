@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Front-End Web Development
 - 🤔 I’m looking for help with getting internship.
 - 💬 Ask me about anything you wish for.
-- 📫 How to reach me: Link to [LinkedIn](https://www.linkedin.com/in/harsh-dhama-06a5921aa/)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/harsh-dhama-06a5921aa/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Don't Assume Just Discover.
 - 
