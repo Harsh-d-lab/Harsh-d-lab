@@ -1,5 +1,12 @@
 ### Hi there 👋
-
+- 🔭 I’m currently working on Projects.
+- 🌱 I’m currently learning Front-End Web Development
+- 🤔 I’m looking for help with getting internship.
+- 💬 Ask me about anything you wish for.
+- 📫 How to reach me: Link to [LinkedIn](https://www.linkedin.com/in/harsh-dhama-06a5921aa/)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: Don't Assume Just Discover.
+- 
 <!--
 **Harsh-d-lab/Harsh-d-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
