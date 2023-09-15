@@ -1,14 +1,14 @@
  
-<h3 align="center">I'm Harsh Dhama. A front-end developer with more than 1 years of experience.</h3>
+<h3 align="center">I'm Harsh Dhama. A front-end developer with more than 1 year of experience.</h3>
  
 
-<a href="(https://www.linkedin.com/in/harsh-dhama-06a5921aa/)" target="_blank">
+<a href="https://www.linkedin.com/in/harsh-dhama-06a5921aa/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a> 
-<a href="(https://www.youtube.com/@harshdhama3977/videos)" target="_blank">
+<a href="https://www.youtube.com/@harshdhama3977/videos" target="_blank">
 <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="LinkedIn">
 </a> 
- <a href="">
+ <a href="https://stackoverflow.com/users/13720432/harsh-dhama">
  <img src="https://img.shields.io/badge/Stack Overflow-f48024?style=flat-square&logo=stackoverflow&logoColor=white" />
  </a>
 </a> 
