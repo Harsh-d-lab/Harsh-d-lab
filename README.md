@@ -15,6 +15,12 @@
  <a href="mailto:dhamaharsh9@gmail.com">
  <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" />
  </a>
+
+ ### Visitor count
+![Visitor Count](https://profile-counter.glitch.me/nightcoder26/count.svg)
+
+<br>
+<br>
   
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammad-taheri1&layout=compact&theme=vision-friendly-dark)]
   
