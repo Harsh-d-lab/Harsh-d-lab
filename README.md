@@ -1,6 +1,8 @@
+<table>
+<tr>
+<td>
 <h1 align="center">Hi 👋, I'm Harsh Dhama</h1>
 <h3 align="center">A passionate Front-End Developer with over 1 year of experience.</h3>
-
 <p align="center">
   <a href="https://www.linkedin.com/in/harsh-dhama-06a5921aa/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -15,6 +17,12 @@
     <img src="https://img.shields.io/badge/Gmail-c14438?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
+</td>
+<td>
+<img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" alt="Innovation and Creativity" width="300">
+</td>
+</tr>
+</table>
 
 ---
 
